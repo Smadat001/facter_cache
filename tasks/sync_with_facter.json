@@ -1,0 +1,6 @@
+{
+  "puppet_task_version": 1,
+  "supports_noop": false,
+  "description": "Sync facter.conf TTLs and blocklists with current Facter facts",
+  "parameters": {}
+}
